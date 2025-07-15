@@ -1,4 +1,4 @@
-# 🗨 Terminal Chat App using Python Sockets
+# 🗨 Terminal Chat Application using Python Sockets
 
 A multi-client terminal chat application developed using Python's socket and threading libraries. The project facilitates real-time text communication between multiple users over a local or remote network, all through a command-line interface.
 
